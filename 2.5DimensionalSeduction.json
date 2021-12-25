@@ -4,5 +4,14 @@
   "artist": "Yuu Hashimoto",
   "author": "Yuu Hashimoto",
   "cover": "https://media.discordapp.net/attachments/924265969927483392/924266447201521694/20211225_053706.gif",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1640434350",
+      "groups": {
+        "AlterKai Scanlations": "/proxy/api/mangadex/chapter/b002b976-1359-493c-acad-392597625a03"
+      }
+    }
+  }
 }
